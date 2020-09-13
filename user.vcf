@@ -1,8 +1,8 @@
 BEGIN:VCARD
 VERSION:4.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Nichols;Brian;;Dr;
-FN:Dr Brian Nichols
+N:Nichols;Brian;;;
+FN:Brian Nichols
 EMAIL:drnichols@bouldereyesurgeons.com
 ORG:Boulder Eye Surgeons
 TEL:303-444-3000
